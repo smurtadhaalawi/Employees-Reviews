@@ -7,12 +7,15 @@ Between 2008 and 2021, overall employee satisfaction varied significantly across
 
 # Approch:
 * Approach 1 – Employee Ratings Analysis
+  
 Compare overall satisfaction, work-life balance, recommendation rates, CEO approval scores, and culture and values across the Food, Finance, and Education sectors. Identify how leadership perception and willingness to recommend relate to overall satisfaction. Further, analyze career advancement opportunities, compensation and benefits, and senior management performance to understand their influence on employee perceptions. Evaluate sector-level differences to determine which industry provides the best overall work environment
 
 * Approach 2 – Job Title Analysis for Business Management Graduates
+  
 Identify the most suitable job titles for jobseekers with a Business Management degree by analyzing employee ratings across sectors. This approach examines how employees in various roles within the Food, Finance, and Education sectors rate factors such as overall satisfaction, career growth, compensation, and management support. By comparing these ratings, the analysis determines which job titles offer the most favorable work experiences and long-term opportunities for Business Management graduates. The goal is to highlight the best-rated positions and sectors for career development, as well as to uncover patterns in job satisfaction and professional advancement potential across industries.
 
 * Approach 3 – Cross-Sector Pros and Cons Text Analysis
+
 Identify the common strengths and weaknesses across all sectors by analyzing the written pros and cons provided by employees in their reviews. This approach uses text analysis to extract frequently mentioned themes that reflect positive and negative aspects of working in the Food, Finance, and Education sectors.
 
 # Dataset: 
