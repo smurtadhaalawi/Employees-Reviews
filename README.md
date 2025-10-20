@@ -40,5 +40,6 @@ download the Data from website, Then open the data in python by :
 * from collections import Counter
 * import re
 * import seaborn as sns
-* import nunpy as np 
+* import numpy as np
 * import matplotlib.pyplot as plt
+* from IPython.display import display
