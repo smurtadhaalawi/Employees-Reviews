@@ -5,7 +5,7 @@ Our dataset comes from Glassdoor, a website where employees share their work exp
 # Problem Statement:
 Between 2008 and 2021, overall employee satisfaction varied significantly across sectors. Reviews show that the Food sector scored only 3.32/5, lagging behind Finance (3.67/5) and Education (3.94/5). A manager exploring job opportunities wants to understand why satisfaction differs across these sectors, focusing on work-life balance, culture, recommendation rates, and leadership approval to identify industries with higher employee satisfaction.
 
-# Approch:
+# approche:
 * Approach 1 – Employee Ratings Analysis
   
 Compare overall satisfaction, work-life balance, recommendation rates, CEO approval scores, and culture and values across the Food, Finance, and Education sectors. Identify how leadership perception and willingness to recommend relate to overall satisfaction. Further, analyze career advancement opportunities, compensation and benefits, and senior management performance to understand their influence on employee perceptions. Evaluate sector-level differences to determine which industry provides the best overall work environment
