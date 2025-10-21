@@ -5,7 +5,7 @@ Our dataset comes from Glassdoor, a website where employees share their work exp
 # Problem Statement:
 Between 2008 and 2021, employee satisfaction differed across sectors  food (3.32), Finance (3.67), and Education (3.94). The manager aims to identify key factors like work-life balance, culture, recommendations, and leadership approval to find industries with higher satisfaction.
 
-# approche:
+# Approach:
 * Approach 1 – Employee Ratings Analysis
   
 Compare overall satisfaction, work-life balance, recommendation rates, CEO approval scores, and culture and values across the Food, Finance, and Education sectors. Identify how leadership perception and willingness to recommend relate to overall satisfaction. Further, analyze career advancement opportunities, compensation and benefits, and senior management performance to understand their influence on employee perceptions. Evaluate sector-level differences to determine which industry provides the best overall work environment
@@ -27,7 +27,7 @@ You can find the Data in the
 [Website](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews/data)
 
 # Analysis: 
-The analysis compares employee satisfaction across the Education, Finance, and Food sectors by examining key rating dimensions such as overall rating, work-life balance, culture, career growth, compensation, management, recommendation, and CEO approval. After cleaning and filtering the data, average scores are calculated and compared across sectors using descriptive statistics and visualizations. Statistical tests such as ANOVA are used to assess whether the differences are significant. The findings help identify the best-performing sector in terms of overall employee satisfaction, while also revealing common strengths and weaknesses shared across industries, highlighting the key pros and cons that shape employee experiences in each sector.
+The analysis compares employee satisfaction across the Education, Finance, and Food sectors by examining key rating dimensions such as overall rating, work-life balance, culture, career growth, compensation, management, recommendation, and CEO approval. After cleaning and filtering the data, average scores are calculated and compared across sectors using descriptive statistics and visualizations. The findings help identify the best-performing sector in terms of overall employee satisfaction, while also revealing common strengths and weaknesses shared across industries, highlighting the key pros and cons that shape employee experiences in each sector.
 
 # How to Run: 
 download the Data from website, Then open the data in python by :
