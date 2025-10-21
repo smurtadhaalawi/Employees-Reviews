@@ -3,7 +3,7 @@
 Our dataset comes from Glassdoor, a website where employees share their work experiences anonymously. Each row represents one employee review and includes details like job title, company name, employment status, location, and ratings such as overall satisfaction, work-life balance, culture, and career growth. This data helps us understand employee opinions about their workplaces and explore patterns in satisfaction, company image, and management performance across different industries.
 
 # Problem Statement:
-Between 2008 and 2021, overall employee satisfaction varied significantly across sectors. Reviews show that the Food sector scored only 3.32/5, lagging behind Finance (3.67/5) and Education (3.94/5). A manager exploring job opportunities wants to understand why satisfaction differs across these sectors, focusing on work-life balance, culture, recommendation rates, and leadership approval to identify industries with higher employee satisfaction.
+Between 2008 and 2021, employee satisfaction differed across sectors  food (3.32), Finance (3.67), and Education (3.94). The manager aims to identify key factors like work-life balance, culture, recommendations, and leadership approval to find industries with higher satisfaction.
 
 # approche:
 * Approach 1 – Employee Ratings Analysis
